@@ -1,0 +1,15 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0">
+<modelVersion>4.0.0</modelVersion>
+<groupId>com.example</groupId>
+<artifactId>book-catalog-microservices</artifactId>
+<version>1.0.0</version>
+<packaging>pom</packaging>
+
+<modules>
+    <module>discovery-service</module>
+    <module>config-service</module>
+    <module>book-service</module>
+    <module>user-service</module>
+    <module>analytics-service</module>
+</modules>
+</project>
