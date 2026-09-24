@@ -1,26 +1,34 @@
 # Spring Boot Labs
 
-This repository contains various labs implemented using Spring Boot.
+A collection of practical Spring Boot labs covering backend and distributed-system concepts.
 
-## Repository Structure
+## Labs
+- Lab 1 — Spring Boot fundamentals
+- Lab 2 — RESTful web services
+- Lab 3 — JPA and MySQL
+- Lab 4 — Spring Security
+- Lab 5 — Microservices
+- Lab 7 — Apache Kafka
+- Lab 8 — CQRS
+- Lab 9 — Reactive programming
 
-- **Lab 1**: Basic Spring Boot Application
-- **Lab 2**: Spring Boot with RESTful Web Services
-- **Lab 3**: Spring Boot with JPA and MySQL
-- **Lab 4**: Spring Boot with Security
-- **Lab 5**: Spring Boot with Microservices
-- **Lab 7**: Spring Boot with Kafka
-- **Lab 8**: Spring Boot with CQRS
-- **Lab 9**: Spring Boot with Reactive Programming
+## Technologies
+- Java
+- Spring Boot
+- Spring Data JPA
+- MySQL
+- Spring Security
+- Microservices
+- Apache Kafka
+- CQRS
+- Reactive programming
 
-## Language Composition Statistics
-- Java: 80%
-- YAML: 10%
-- HTML: 5%
-- CSS: 5%
+## Purpose
+These labs document my practical exploration of Java backend engineering and Spring ecosystem concepts, from REST APIs and persistence to security, messaging, architectural patterns, and reactive applications.
 
-## Current Date
-- 2026-04-18
+## Structure
+Each lab is kept in its own directory so the examples can be studied independently.
 
-## Last Updated
-- 2026-04-18 15:01:31 (UTC)
+## Author
+Manar Degachi
+GitHub: https://github.com/manar09-code
